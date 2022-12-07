@@ -1,1 +1,1 @@
-const completeName = ``;
+const arreglo = new Array[];
